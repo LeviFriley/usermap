@@ -1,4 +1,4 @@
-{
+eqfeed_callback({
     "type": "FeatureCollection",
     "features": [{
         "properties": {
@@ -3123,3 +3123,4 @@
         "id": "MZ"
     }]
 }
+);
